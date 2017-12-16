@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "DateRange",
   "main": "lib/DateRange.js",
-  "author": "Hoops",
+  "author": "jahoops",
   "homepage": "https://github.com/JaHoops/react-date-range",
   "repository": {
     "type": "git",
