@@ -1,0 +1,29 @@
+{
+  "name": "react-date-range",
+  "version": "0.0.0",
+  "description": "DateRange",
+  "main": "dist/react-date-range.min.js",
+  "homepage": "https://github.com/JaHoops/react-date-range",
+  "authors": [
+    "Hoops"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
