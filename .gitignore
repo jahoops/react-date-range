@@ -1,0 +1,83 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage tools
+lib-cov
+coverage
+coverage.html
+.cover*
+
+# Dependency directory
+# node_modules
+
+# Example build directory
+example/dist
+.publish
+
+# Editor and other tmp files
+*.swp
+*.un~
+*.iml
+*.ipr
+*.iws
+*.sublime-*
+.idea/
+*.DS_Store
+
+# Local environments, dependencies, and generated output
+.env
+.env.*
+!.env.example
+node_modules/
+bower_components/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+dist/
+build/
+coverage/
+*.log
+*.tmp
+*.cache
+
+# Local data, trained models, archives, and credentials
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.npy
+*.npz
+*.zip
+*.7z
+*.rar
+*.tar
+*.tgz
+*.gz
+*.db
+*.sqlite*
+*.pem
+*.key
+*.p12
+*.pfx
+
